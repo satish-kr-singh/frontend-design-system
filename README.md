@@ -51,8 +51,6 @@ export const color = {
 
 Hard-coded values are intentionally avoided. This allows the system to support theming, branding, and accessibility improvements without widespread refactoring.
 
-See [color.md](./tokens/color.md) for semantic color modeling and accessibility rules
-
 ---
 
 ### 3. Primitives are boring by design

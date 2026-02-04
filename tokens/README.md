@@ -65,10 +65,11 @@ The underlying value may change. The intent should not.
 
 This system defines the following token categories:
 
-* **Color** — text, background, border, semantic feedback
-* **Spacing** — margin, padding, layout rhythm
-* **Typography** — font families, sizes, weights, line heights
-* **Motion** — duration, easing, reduced-motion support
+* **[Color](./color.md)** — text, background, border, semantic feedback
+* **[Spacing](./spacing.md)** — margin, padding, layout rhythm
+
+* **[Typography](typography.md)** — font families, sizes, weights, line heights
+* **[Motion](./motion.md)** — duration, easing, reduced-motion support
 * **Elevation** — shadows and layering semantics
 
 Each category is documented independently to limit blast radius and keep responsibilities clear.
